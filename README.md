@@ -8,7 +8,7 @@ Built with Python and Streamlit, deployed on Streamlit Community Cloud.
 
 ## Live Demo
 
-[Click here to view the app](https://share.streamlit.io)
+[Click here to view the app]https://crypto-naira-tracker-jpbi4q4ualhrxhbxo2jjyw.streamlit.app/
 
 ---
 
