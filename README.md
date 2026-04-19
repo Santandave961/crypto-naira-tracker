@@ -116,7 +116,7 @@ This app currently uses synthetic historical price data for demonstration purpos
 ## Author
 
 **Okparaji Wisdom**
-Data Science Student | Fintech Portfolio Builder
+Data Scientist | Fintech Portfolio Builder
 
 - GitHub: [@Santandave961](https://github.com/Santandave961)
 - LinkedIn: [Connect with me](https://linkedin.com)
